@@ -1,0 +1,5 @@
+D:\My document\University science\5 курс\Lab_3\CreditCartLibrary\CreditCartLibrary\bin\Debug\CreditCartLibrary.dll
+D:\My document\University science\5 курс\Lab_3\CreditCartLibrary\CreditCartLibrary\bin\Debug\CreditCartLibrary.pdb
+D:\My document\University science\5 курс\Lab_3\CreditCartLibrary\CreditCartLibrary\obj\Debug\CreditCartLibrary.csprojResolveAssemblyReference.cache
+D:\My document\University science\5 курс\Lab_3\CreditCartLibrary\CreditCartLibrary\obj\Debug\CreditCartLibrary.dll
+D:\My document\University science\5 курс\Lab_3\CreditCartLibrary\CreditCartLibrary\obj\Debug\CreditCartLibrary.pdb
